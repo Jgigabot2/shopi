@@ -1,7 +1,7 @@
 import { useContext, useState, useRef } from 'react'
 import { Link, Navigate } from 'react-router-dom'
 import { ShoppingCartContext } from '../../Context'
-import Layout from '../../Component/Layout'
+import Layout from '../../Components/Layout'
 
 function SignIn() {
   const context = useContext(ShoppingCartContext)
