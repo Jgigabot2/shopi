@@ -2,10 +2,9 @@
 
 En el siguiente proyecto, Se realiza el proyecto de tienda virtual el cual se implemento con herramientas como framework React.js y Tailwind CSS, con datos importados con API.
 
+Link del proyecto:
 
-<h3 align="left">Link del proyecto:</h3>
-<p align="left">
-<a href="https://shopitienda.netlify.app/sign-in">
+https://shopitienda.netlify.app
 
 
 
